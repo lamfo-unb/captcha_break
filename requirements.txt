@@ -1,4 +1,4 @@
-joblib==0.17.0
+joblib==1.2.0
 Keras==2.4.3
 numpy==1.18.5
 opencv-python==4.4.0.46
